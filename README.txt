@@ -248,6 +248,7 @@ web-sys                       0.3.36
 webpki                        0.21.2
 webpki-roots                  0.17.0
 webpki-roots                  0.18.0
+webpki-roots                  0.19.0
 which                         3.1.1
 winapi                        0.2.8
 winapi                        0.3.8
